@@ -25,12 +25,13 @@ body{
 nav{
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: flex-end;
     flex-wrap: wrap;
 }
 
 .logo{
     width: 140px;
+    margin-right: 525px;
 }
  nav ul li{
     display: inline-block;
